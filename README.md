@@ -17,7 +17,7 @@ I built this using the official documentation which can be found [here](https://
 
 ```python
 import testc
-testc.funtionname()
+testc.functionname()
 ```
 
 ## Creating your own module
